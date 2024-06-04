@@ -263,6 +263,7 @@ isOpen &&
   ) : null}
 </div>}
 
+  <div className="absolute bottom-20"><a href="https://twitter.com/mayursamr" _target="blank" rel="noopener noreferrer" className="underline">mayursamr</a></div>
     </div>
   );
 }
